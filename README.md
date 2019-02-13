@@ -49,7 +49,7 @@ open `.postcssrc`
 }
 ```
 
-`"modules": true` -use camelCase in scss and js file.
+`"modules": true`  -use camelCase in scss and js file.
 
 `"modules": false` - you can use kebab-case.
 
