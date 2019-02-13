@@ -35,6 +35,10 @@ A simplest React starter based on Parcel.
 
 [BrowsersList](https://github.com/browserslist/browserslist)
 
+## Need
+
+Eslint Jest ...
+
 ## CSS Modules Config
 Open `.postcssrc` file.
 
