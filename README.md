@@ -33,6 +33,7 @@ A simplest React starter based on Parcel.
 
 [@babel/plugin-proposal-export-default-from](https://babeljs.io/docs/en/babel-plugin-proposal-export-default-from)
 
+[BrowsersList](https://github.com/browserslist/browserslist)
 
 ## CSS Modules Config
 Open `.postcssrc` file.
