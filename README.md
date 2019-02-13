@@ -64,6 +64,8 @@ yarn or npm i
 yarn dev && yarn build
 npm run dev && npm run build
 ```
+## Link
+[Parcel Documentation](https://parceljs.org/getting_started.html)
 
 ## License
 MIT
