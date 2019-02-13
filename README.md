@@ -16,7 +16,7 @@ React 16.8.1
 
 React-Dom 16.8.1
 
-Babel 7.X
+Babel 7.X and Babel Plugins
 
 Sass 1.17.0
 
