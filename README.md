@@ -89,6 +89,8 @@ npm run dev && npm run build
 
 [Parcel Documentation](https://parceljs.org/getting_started.html)
 
+[Configuring ESLint](https://eslint.org/docs/user-guide/configuring#specifying-parser-options)
+
 [eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app)
 
 [babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app)
