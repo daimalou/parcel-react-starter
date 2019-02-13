@@ -36,6 +36,8 @@ A simplest React Starter based on Parcel.
 
 
 ## CSS Modules Config
+open `.postcssrc`
+
 ```json
 {
   "modules": true,
@@ -46,7 +48,9 @@ A simplest React Starter based on Parcel.
   }
 }
 ```
+
 Default is true -use camelCase in Scss file.
+
 Change `ture` to `false` - you can use kebab-case.
 
 ## Download
