@@ -49,6 +49,10 @@ Very Simple.  2019.2.13
 
 [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 
+# Not Include
+
+Jest
+
 ## CSS Modules Config
 Open `.postcssrc` file.
 
