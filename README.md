@@ -30,7 +30,6 @@ CSS Module - Please use camelCase in Scss file
 
 Close  CSS Module  Edit `.postcssrc` `module` `ture` to `false`.
 
-### You can add package whatever you want.
 
 ## Download
 ```
