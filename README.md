@@ -51,7 +51,7 @@ Open `.postcssrc` file.
 
 `"modules": true`  -use camelCase classname in scss and js file.
 
-`"modules": false` - use kebab-case classname like normal.
+`"modules": false` - use kebab-case classname as usual.
 
 ## Download
 
