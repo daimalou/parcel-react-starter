@@ -1,6 +1,6 @@
 # Parcel React Starter
 
-A simplest React Starter based on Parcel.
+A simplest React starter based on Parcel.
 
 
 ## Some VS Code Plugin
