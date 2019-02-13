@@ -24,5 +24,18 @@
     "es6": true,
     "browser": true,
     "node": true
+  },
+  "settings": {
+    "react": {
+      "createClass": "createReactClass", 
+      "pragma": "React",  
+      "version": "detect",
+      "flowVersion": "0.53"
+    },
+    "propWrapperFunctions": [
+        "forbidExtraProps",
+        {"property": "freeze", "object": "Object"},
+        {"property": "myFavoriteWrapper"}
+    ]
   }
 }
