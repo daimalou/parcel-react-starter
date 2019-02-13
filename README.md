@@ -39,3 +39,5 @@ git clone https://github.com/daimalou/parcel-react-starter
 cd parcel-react-starter 
 yarn or npm install
 ```
+## License
+MIT
