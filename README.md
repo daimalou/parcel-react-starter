@@ -75,9 +75,13 @@ npm run dev && npm run build
 ## ScreenShot
 ![ScreenShot](./screenshot.png)
 
-## Link
+## Resource
 
 [Parcel Documentation](https://parceljs.org/getting_started.html)
+
+[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app)
+
+[babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app)
 
 ## License
 
