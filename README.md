@@ -32,12 +32,17 @@ Close  CSS Module  Edit `.postcssrc` `module` `ture` to `false`.
 
 ### You can add package whatever you want.
 
-## Easy To Use
-
+## Download
 ```
 git clone https://github.com/daimalou/parcel-react-starter 
 cd parcel-react-starter 
 yarn or npm install
 ```
+## Run
+```
+yarn dev && yarn build
+npm run dev && npm run build
+```
+
 ## License
 MIT
