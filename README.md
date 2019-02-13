@@ -1,4 +1,4 @@
-# Parcel React Starter
+# Simple Parcel React Starter
 
 A simplest React starter based on Parcel.
 
