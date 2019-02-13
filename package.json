@@ -1,0 +1,26 @@
+{
+  "name": "parcel-react-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "description": "A baisc React starter",
+  "scripts": {
+    "dev": "parcel ./src/index.html --open -p 5000",
+    "build": "parcel build ./src/index.html"
+  },
+  "dependencies": {
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-proposal-class-properties": "^7.3.0",
+    "@babel/plugin-proposal-export-default-from": "^7.2.0",
+    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-react": "^7.0.0",
+    "parcel-bundler": "^1.11.0",
+    "sass": "^1.17.0",
+    "postcss-modules": "^1.4.1",
+    "autoprefixer": "^9.4.7"
+  }
+}
