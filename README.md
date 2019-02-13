@@ -1,6 +1,6 @@
 # Simple Parcel React Starter
 
-Based on Parcel Babel 7 ...
+Very Simple.
 
 
 ## Some VS Code Plugin
