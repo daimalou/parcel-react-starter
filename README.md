@@ -35,7 +35,7 @@ A simplest React starter based on Parcel.
 
 
 ## CSS Modules Config
-open `.postcssrc`
+Open `.postcssrc` file.
 
 ```json
 {
