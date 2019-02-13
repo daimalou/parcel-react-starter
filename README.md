@@ -1,15 +1,15 @@
 # Simple Parcel React Starter
 
-Very Simple.
+Very Simple.All is lastest. 2019.2.13
 
 
-## Some VS Code Plugin
+# VS Code Plugin
 
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## Include
+# Include
 
 [React](https://reactjs.org) 16.8.1
 
@@ -35,9 +35,19 @@ Very Simple.
 
 [BrowsersList](https://github.com/browserslist/browserslist)
 
-## Need
+### Eslint and Plugins
 
-Eslint Jest ...
+[eslint](https://github.com/eslint/eslint)
+
+[babel-eslint](https://github.com/babel/babel-eslint)
+
+[eslint-plugin-flowtype](https://github.com/gajus/eslint-plugin-flowtype)
+
+[eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import)
+
+[eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y)
+
+[eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react)
 
 ## CSS Modules Config
 Open `.postcssrc` file.
