@@ -71,11 +71,11 @@ Open `.postcssrc` file.
 
 ```
 git clone https://github.com/daimalou/simple-parcel-react-starter
-cd parcel-react-starter 
+cd simple-parcel-react-starter
 yarn or npm i
 ```
 
-## Run
+## Dev && Build
 
 ```
 yarn dev && yarn build
