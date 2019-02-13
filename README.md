@@ -49,9 +49,8 @@ open `.postcssrc`
 }
 ```
 
-Default is true -use camelCase in Scss file.
-
-Change `ture` to `false` - you can use kebab-case.
+`"modules": true` -use camelCase in scss and js file.
+`"modules": false` - you can use kebab-case.
 
 ## Download
 ```
