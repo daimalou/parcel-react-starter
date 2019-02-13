@@ -24,7 +24,7 @@ Postcss-Modules 1.4.1
 
 Autoprefixer 9.4.7
 
-Parcel-Bundler 1.11.0
+[Parcel](https://parceljs.org/)
 
 CSS Module - Please use camelCase in Scss file 
 
