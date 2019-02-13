@@ -55,7 +55,7 @@ Open `.postcssrc` file.
 ## Download
 
 ```
-git clone https://github.com/daimalou/parcel-react-starter 
+git clone https://github.com/daimalou/simple-parcel-react-starter
 cd parcel-react-starter 
 yarn or npm i
 ```
