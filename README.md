@@ -3,7 +3,7 @@
 A simplest React Starter based on Parcel.
 
 
-## I Use VS Code Plugin
+## Some VS Code Plugin
 
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
@@ -34,7 +34,6 @@ A simplest React Starter based on Parcel.
 [@babel/plugin-proposal-export-default-from](https://babeljs.io/docs/en/babel-plugin-proposal-export-default-from)
 
 
-
 ## CSS Modules Config
 open `.postcssrc`
 
@@ -54,18 +53,24 @@ open `.postcssrc`
 `"modules": false` - use kebab-case classname like normal.
 
 ## Download
+
 ```
 git clone https://github.com/daimalou/parcel-react-starter 
 cd parcel-react-starter 
 yarn or npm i
 ```
+
 ## Run
+
 ```
 yarn dev && yarn build
 npm run dev && npm run build
 ```
+
 ## Link
+
 [Parcel Documentation](https://parceljs.org/getting_started.html)
 
 ## License
+
 MIT
