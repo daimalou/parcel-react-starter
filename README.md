@@ -5,9 +5,9 @@ A simplest React Starter based on Parcel.
 
 ## I Use VS Code Plugin
 
-[Prettier - Code formatter](https://github.com/prettier/prettier-vscode)
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-Eslint 
+[Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
 ## Include
 
