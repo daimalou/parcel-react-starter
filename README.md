@@ -15,6 +15,13 @@ A simplest React Starter based on Parcel.
 
 [React-Dom](https://reactjs.org) 16.8.1
 
+[Sass](https://sass-lang.com/install) 1.17.0
+
+[Postcss-Modules](https://github.com/css-modules/postcss-modules) 1.4.1
+
+[Autoprefixer](https://github.com/postcss/autoprefixer) 9.4.7
+
+[Parcel](https://parceljs.org/) 1.11.0
 
 ### Babel 7.X and Plugins:
 
@@ -27,13 +34,6 @@ A simplest React Starter based on Parcel.
 [@babel/plugin-proposal-export-default-from](https://babeljs.io/docs/en/babel-plugin-proposal-export-default-from)
 
 
-[Sass](https://sass-lang.com/install) 1.17.0
-
-[Postcss-Modules](https://github.com/css-modules/postcss-modules) 1.4.1
-
-[Autoprefixer](https://github.com/postcss/autoprefixer) 9.4.7
-
-[Parcel](https://parceljs.org/)
 
 ## CSS Modules Config
 ```json
