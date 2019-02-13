@@ -13,9 +13,10 @@ A simplest React Starter based on Parcel.
 
 [React](https://reactjs.org) 16.8.1
 
-[React-Dom](https://reactjs.org)16.8.1
+[React-Dom](https://reactjs.org) 16.8.1
 
-Babel 7.X and Plugins:
+
+### Babel 7.X and Plugins:
 
 [@babel/preset-env](https://babeljs.io/docs/en/babel-preset-env)
 
@@ -24,6 +25,7 @@ Babel 7.X and Plugins:
 [@babel/plugin-proposal-class-properties](https://babeljs.io/docs/en/babel-plugin-proposal-class-properties)
 
 [@babel/plugin-proposal-export-default-from](https://babeljs.io/docs/en/babel-plugin-proposal-export-default-from)
+
 
 [Sass](https://sass-lang.com/install) 1.17.0
 
