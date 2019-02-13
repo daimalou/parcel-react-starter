@@ -1,6 +1,6 @@
 # Simple Parcel React Starter
 
-Very Simple. All is lastest. 2019.2.13
+Very Simple.  2019.2.13
 
 
 # VS Code Plugin
