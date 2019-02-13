@@ -26,7 +26,7 @@ Autoprefixer 9.4.7
 
 Parcel-Bundler 1.11.0
 
-CSS Module - Use camelCase in Scss file 
+CSS Module - Please use camelCase in Scss file 
 
 Close  CSS Module  Edit `.postcssrc` `module` `ture` to `false`.
 
