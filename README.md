@@ -95,7 +95,7 @@ npm run dev && npm run build
 
 [Configuring ESLint](https://eslint.org/docs/user-guide/configuring#specifying-parser-options)
 
-[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) -Official Eslint Preset
+[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) -Official Eslint Preset [Issues#2377](https://github.com/facebook/create-react-app/issues/2377)
 
 [babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app) -Official Babel Preset
 
