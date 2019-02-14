@@ -35,7 +35,7 @@ Very Simple.  2019.2.13
 
 [BrowsersList](https://github.com/browserslist/browserslist)
 
-### Eslint and Plugins
+### Eslint and Plugins:
 
 [eslint](https://github.com/eslint/eslint)
 
@@ -95,9 +95,9 @@ npm run dev && npm run build
 
 [Configuring ESLint](https://eslint.org/docs/user-guide/configuring#specifying-parser-options)
 
-[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app)
+[eslint-config-react-app](https://www.npmjs.com/package/eslint-config-react-app) -Official Eslint Preset
 
-[babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app)
+[babel-preset-react-app](https://www.npmjs.com/package/babel-preset-react-app) -Official Babel Preset
 
 ## License
 
