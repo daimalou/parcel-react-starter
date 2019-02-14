@@ -91,7 +91,7 @@ npm run dev && npm run build
 ## ScreenShot
 ![ScreenShot](./screenshot.png)
 
-## Resource
+## Resources
 
 [Parcel Documentation](https://parceljs.org/getting_started.html)
 
