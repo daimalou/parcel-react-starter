@@ -29,7 +29,8 @@
     "react": {
       "createClass": "createReactClass", 
       "pragma": "React",  
-      "version": "detect"
+      "version": "detect",
+      "flowVersion": "0.53"
     },
     "propWrapperFunctions": [
         "forbidExtraProps",
