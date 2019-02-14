@@ -51,7 +51,9 @@ Very Simple.  2019.2.13
 
 # Not Include
 
-Jest
+[@babel/plugin-syntax-dynamic-import](https://babeljs.io/docs/en/next/babel-plugin-syntax-dynamic-import.html) -Parcel Supported
+
+[Jest](https://github.com/facebook/jest)
 
 ## CSS Modules Config
 Open `.postcssrc` file.
@@ -92,6 +94,8 @@ npm run dev && npm run build
 ## Resource
 
 [Parcel Documentation](https://parceljs.org/getting_started.html)
+
+[Babel Plugins](https://babeljs.io/docs/en/plugins)
 
 [Configuring ESLint](https://eslint.org/docs/user-guide/configuring#specifying-parser-options)
 
