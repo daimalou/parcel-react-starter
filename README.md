@@ -2,6 +2,7 @@
 
 Very Simple.
 
+[Webpack Version](https://github.com/daimalou/simple-webpack-react-starter)
 
 # VS Code Plugin
 
