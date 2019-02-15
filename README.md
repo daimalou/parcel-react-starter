@@ -1,4 +1,4 @@
-# Simple Parcel React Starter
+# Simple Parcel React Starter  -  [Webpack Version](https://github.com/daimalou/simple-webpack-react-starter)
 
 Very Simple.
 
